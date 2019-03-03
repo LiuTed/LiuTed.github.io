@@ -28,19 +28,19 @@ email: tdliu@pku.edu.cn
   - In the group of Prof. Chenren Xu, CECA, Peking University
   - Contribution: design and implementation of scheduling algorithm; evaluation and tunning
 
-- RISC-V Simulator
+- [RISC-V Simulator](https://github.com/LiuTed/RISCV-SIM)
   - Lab on Computer Organization and architecture
   - Functional Simulator with Performance Analysis
 
-- MiniC Compiler
+- [MiniC Compiler](https://github.com/LiuTed/MiniC2RISC-V)
   - Practice for Compiler Design
 
-- A Comparison of Multiple Classifier for Font Recognition
+- [A Comparison of Multiple Classifier for Font Recognition](https://github.com/LiuTed/FontRecognition)
   - Course Project of Pattern Recognition
   - Contribution: implementation, evaluation and discussion of method KNN, mean-shift and DCNN
 
 ## Publication
-- Xiuhong Li, Yun Liang, Wentai Zhang, **Taide Liu**, Haochen Li, Guojie Luo, and Ming Jiang, ``cuMBIR: An Efficient Framework for Low-dose X-ray CT Image Reconstruction on GPUs'', ACM International Conference on Supercomputing (ICS 2018)
+- Xiuhong Li, Yun Liang, Wentai Zhang, **Taide Liu**, Haochen Li, Guojie Luo, and Ming Jiang, ``cuMBIR: An Efficient Framework for Low-dose X-ray CT Image Reconstruction on GPUs'', ACM International Conference on Supercomputing (ICS 2018) [PDF](http://ics2018.ict.ac.cn/essay/ics18-final115.pdf)
 
 ## Experience
 - Autumn 2017: Teaching Assistant
