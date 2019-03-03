@@ -1,13 +1,8 @@
 ---
-title: Liu Taide Homepage
+layout: default
 email: tdliu@pku.edu.cn
 ---
 # CV
-
-## Introduce
-Liu Taide, a 4th year undergraduate student at Peking University, major in Computer Science and Technology and double major in Mathematics and Applied Mathematics. Interested in Computer Graphics (mainly about rendering, model construction), math algorithm (mainly about numerical optimization) implementation and optimization, deep learning and potentially other interdisciplinary field of mathematics and computer science.
-
-Contact me with email: {{ page.email }}
 
 ## Education
 - B.S. in Peking University, 2015.09-2019.07(expected)
@@ -17,6 +12,12 @@ Contact me with email: {{ page.email }}
   - Double Major: Mathematics and Applied Mathematics
     - School of Mathematical Science
     - GPA: 3.31/4.00
+
+## Interests
+- Computer Graphics (mainly about rendering, model construction)
+- Math algorithm (mainly about numerical optimization) implementation and optimization
+- Deep learning
+- Other interdisciplinary field of mathematics and computer science.
 
 ## Projects
 - Reconstruction of 3D Object in X-CT with Accleration
