@@ -5,13 +5,13 @@ email: tdliu@pku.edu.cn
 # CV
 
 ## Education
-- B.S. in Peking University, 2015.09-2019.07(expected)
+- B.S. in Peking University, 2015.09-2019.07
   - Major: Computer Science and Technology
     - School of Electronic Engineering and Computer Science
     - GPA: 3.47/4.00 (37%)
   - Double Major: Mathematics and Applied Mathematics
     - School of Mathematical Science
-    - GPA: 3.31/4.00
+    - GPA: 3.21/4.00
 
 ## Interests
 - Computer Graphics (mainly about rendering, model construction)
@@ -27,6 +27,7 @@ email: tdliu@pku.edu.cn
 - Data-driven QoE Improvment of High Speed Rail Networking
   - In the group of Prof. Chenren Xu, CECA, Peking University
   - Contribution: design and implementation of scheduling algorithm; evaluation and tunning
+  - Graduation design with the same name
 
 - [RISC-V Simulator](https://github.com/LiuTed/RISCV-SIM)
   - Lab on Computer Organization and architecture
@@ -56,5 +57,5 @@ email: tdliu@pku.edu.cn
   - Chinese: Native Speaker
   - English: Functional (CET-6: 465)
 - Programming:
-  - Proficient: C++(Modern), C, Python3
-  - Capable: MATLAB, CUDA, Scheme, Assembly(x86-64/RISC-V)
+  - Proficient: C/C++ (Linux), Python3
+  - Capable: MATLAB, CUDA, Scheme, Assembly(x86_64)
