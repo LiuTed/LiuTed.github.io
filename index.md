@@ -5,6 +5,10 @@ email: tdliu@pku.edu.cn
 # CV
 
 ## Education
+- Master in University of Tokyo, 2020.09-
+  - Major: Applied Computer Science
+  - Research topic: Game AI design
+
 - B.S. in Peking University, 2015.09-2019.07
   - Major: Computer Science and Technology
     - School of Electronic Engineering and Computer Science
@@ -14,9 +18,9 @@ email: tdliu@pku.edu.cn
     - GPA: 3.21/4.00
 
 ## Interests
+- AI design using deep reinforcement learning
 - Computer Graphics (mainly about rendering, model construction)
 - Math algorithm (mainly about numerical optimization) implementation and optimization
-- Deep learning
 - Other interdisciplinary field of mathematics and computer science.
 
 ## Projects
@@ -55,7 +59,8 @@ email: tdliu@pku.edu.cn
 ## Skills
 - Languages:
   - Chinese: Native Speaker
-  - English: Functional (CET-6: 465)
+  - English: Functional (CET-6: 465; TOEIC LR: 390+450=840)
+  - Japanese: Talkable (J-TEST: C(606))
 - Programming:
   - Proficient: C/C++ (Linux), Python3
   - Capable: MATLAB, CUDA, Scheme, Assembly(x86_64)
