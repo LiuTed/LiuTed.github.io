@@ -1,11 +1,16 @@
 ---
 layout: default
-email: tdliu@pku.edu.cn
+email: tdliu@pku.edu.cn; taide.liu@gmail.com
 ---
 # CV
 
-## Education
-- Master in University of Tokyo, 2020.09-
+## Work Experience
+- Huawei, 2022.11-
+  - Position: Software Engineer
+  - Description: Designing and programming for distributed storage systems.
+
+## Education Background
+- Master in University of Tokyo, 2020.09-2022.03 (Not Finished)
   - Major: Applied Computer Science
   - Research topic: Game AI design
 
@@ -47,7 +52,7 @@ email: tdliu@pku.edu.cn
 ## Publication
 - Xiuhong Li, Yun Liang, Wentai Zhang, **Taide Liu**, Haochen Li, Guojie Luo, and Ming Jiang, ``cuMBIR: An Efficient Framework for Low-dose X-ray CT Image Reconstruction on GPUs'', ACM International Conference on Supercomputing (ICS 2018) [PDF](http://ics2018.ict.ac.cn/essay/ics18-final115.pdf)
 
-## Experience
+## Practice Experience
 - Autumn 2017: Teaching Assistant
   - Course: Introduction to Computer Systems
 - Spring 2018: Teaching Assistant
